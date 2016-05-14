@@ -1,6 +1,6 @@
 /*
-Lambda expressions can access static variables, instance variables, effectively final method 
-parameters, and effectively  nal local variables.
+Lambda expressions can access static variables, instance variables, 
+effectively final method parameters, and effectively  nal local variables.
 */
 
 interface Iamfunctioninterface { String move(); }
